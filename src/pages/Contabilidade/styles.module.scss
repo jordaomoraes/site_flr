@@ -1,0 +1,79 @@
+.container{
+
+ display: flex;
+ height: auto;
+ justify-content: space-around;
+
+  
+}
+.cards {
+  padding: 1rem; 
+  margin: 2rem;
+   width: 550px;
+   
+  font-size: 1.2rem;  
+  border: 2px solid rgba(7, 6, 6, 0.479);
+  color:  var(--gray-900);
+  //  background-color: rgb(212, 247, 247);
+ 
+  h3{
+    font-weight: bold;
+    }
+
+  p{
+    margin-top: 1rem;
+  }
+
+  header {
+
+    display: flex;
+    margin-bottom: 2rem;
+    img {
+      margin-right: 2rem;
+      height: 2.3rem;
+      width: 2.3rem;  
+    }
+    h3{
+      margin-top: 1rem;
+    }
+
+  }
+
+}
+
+.cssfooter{
+
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  
+
+
+  button{
+
+    margin-top: 14px !important;
+    padding: 4px;
+    height: 80px;
+    width: calc(33% - 1.2rem);
+    padding: 0 40px;
+    margin: 0 1rem; 
+    background: var(--green-500);
+    color: var(--white);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.2);
+    border: none;
+    font-weight: bold;
+    font-size: 1.2rem;  
+    transition: all 0.2s;
+
+  }
+
+ button:hover{
+    transform: scale(1.02);
+    background-color: var(--green-600);
+}
+
+  
+}
+
+
