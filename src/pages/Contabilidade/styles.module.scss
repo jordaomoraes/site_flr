@@ -1,31 +1,37 @@
 .container{
-
  display: flex;
  height: auto;
  justify-content: space-around;
-
+ margin-top: 7.3rem;
   
 }
+
+.container2{
+  display: flex;
+  height: auto;
+  justify-content: space-around;
+  margin-top: 1.3rem;
+   
+ }
+
 .cards {
   padding: 1rem; 
-  margin: 2rem;
+  margin: 1rem;
    width: 550px;
-   
+   height: auto;
+  
   font-size: 1.2rem;  
   border: 2px solid rgba(7, 6, 6, 0.479);
   color:  var(--gray-900);
   //  background-color: rgb(212, 247, 247);
- 
-  h3{
+   h3{
     font-weight: bold;
     }
 
   p{
     margin-top: 1rem;
   }
-
   header {
-
     display: flex;
     margin-bottom: 2rem;
     img {
@@ -36,21 +42,13 @@
     h3{
       margin-top: 1rem;
     }
-
   }
-
 }
-
 .cssfooter{
-
   display: flex;
   justify-content: center;
-  margin-top: 2rem;
-  
-
-
+  margin-top: 2rem;  
   button{
-
     margin-top: 14px !important;
     padding: 4px;
     height: 80px;
@@ -65,7 +63,6 @@
     font-weight: bold;
     font-size: 1.2rem;  
     transition: all 0.2s;
-
   }
 
  button:hover{

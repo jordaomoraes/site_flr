@@ -41,7 +41,7 @@ export default function Contabilidade() {
       </div>
 
       </div>
-      <div className={styles.container}>
+      <div className={styles.container2}>
 
 
       <div className={styles.cards}>
