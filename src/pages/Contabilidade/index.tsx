@@ -8,10 +8,10 @@ export default function Contabilidade() {
     <div className={styles.container}>
 
       <div className={styles.cards}>
-      <header>
-      <img src="/images/img-empresas.png" alt="logo FLR"></img>
+        <header>
+          <img src="/images/img-empresas.png" alt="logo FLR"></img>
           <h3>EMPRESAS</h3>
-      </header>        
+        </header>
         <p> {">"} Aberturas</p>
         <p> {">"} Encerramentos</p>
         <p> {">"} Acompanhamento Mensal</p>
@@ -40,8 +40,8 @@ export default function Contabilidade() {
         <p> {">"} Alvarás e Licenças</p>
       </div>
 
-      </div>
-      <div className={styles.container2}>
+    </div>
+    <div className={styles.container2}>
 
 
       <div className={styles.cards}>
@@ -57,20 +57,26 @@ export default function Contabilidade() {
         <p> {">"} Acompanhamento Mensal</p>
       </div>
 
+      <div className={styles.ultimaDiv}>    
+          <button>Fale com a Contadora</button>
+      </div>
+
       <div className={styles.cards}>
         <header>
           <img src="/images/img-ir.png" alt="logo FLR"></img>
           <h3>INVESTIDORES</h3>
         </header>
         <p> {">"} Imposto de Renda para Investidores</p>
-      </div>    
+      </div>
 
-</div>
+   
 
-<div className={styles.cssfooter}>
-<button>Fale com a Contadora</button>
+    </div>
 
-</div>
+    {/* <div className={styles.cssfooter}>
+      <button>Fale com a Contadora</button>
+
+    </div> */}
 
 
   </>;

@@ -1,12 +1,4 @@
 "use strict";
-/*
- * ATTENTION: An "eval-source-map" devtool has been used.
- * This devtool is neither made for production nor for readable output files.
- * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
- * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
- * or disable the default devtool with "devtool: false".
- * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
- */
 (() => {
 var exports = {};
 exports.id = "pages/Pericia";
@@ -19,7 +11,30 @@ exports.modules = {
   \*************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__);\nvar _jsxFileName = \"/home/actualsolucoes/Documentos/GitHub/jordaomoraes/site_flr/src/pages/Pericia/index.tsx\";\n\n\n\n// Página que contém os componentes do café crú\nconst Pericia = () => {\n  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(\"h1\", {\n    children: \"Pagina de Pericia\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 7,\n    columnNumber: 10\n  }, undefined);\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Pericia);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcGFnZXMvUGVyaWNpYS9pbmRleC50c3guanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7O0FBQUE7OztBQUlBO0FBQ0EsTUFBTUMsT0FBaUIsR0FBRyxNQUFNO0FBQzlCLHNCQUFPO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBQVA7QUFDRCxDQUZEOztBQUlBLGlFQUFlQSxPQUFmIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vd2ViZmxyLy4vc3JjL3BhZ2VzL1BlcmljaWEvaW5kZXgudHN4PzljOTQiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gXCJyZWFjdFwiO1xuXG5pbXBvcnQgc3R5bGVzIGZyb20gXCIuLi9Db250YXRvL1wiO1xuXG4vLyBQw6FnaW5hIHF1ZSBjb250w6ltIG9zIGNvbXBvbmVudGVzIGRvIGNhZsOpIGNyw7pcbmNvbnN0IFBlcmljaWE6IFJlYWN0LkZDID0gKCkgPT4ge1xuICByZXR1cm4gPGgxPlBhZ2luYSBkZSBQZXJpY2lhPC9oMT47XG59O1xuXG5leHBvcnQgZGVmYXVsdCBQZXJpY2lhO1xuIl0sIm5hbWVzIjpbIlJlYWN0IiwiUGVyaWNpYSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/pages/Pericia/index.tsx\n");
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "C:\\Users\\Guilherme\\Documents\\GitHub\\jordaomoraes\\site_flr\\src\\pages\\Pericia\\index.tsx";
+
+
+
+// Página que contém os componentes do café crú
+const Pericia = () => {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("h1", {
+    children: "Pagina de Pericia"
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 10
+  }, undefined);
+};
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Pericia);
 
 /***/ }),
 
@@ -54,3 +69,4 @@ var __webpack_exports__ = (__webpack_exec__("./src/pages/Pericia/index.tsx"));
 module.exports = __webpack_exports__;
 
 })();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicGFnZXMvUGVyaWNpYS5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBQUE7OztBQUlBO0FBQ0EsTUFBTUMsT0FBaUIsR0FBRyxNQUFNO0FBQzlCLHNCQUFPO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBQVA7QUFDRCxDQUZEOztBQUlBLGlFQUFlQSxPQUFmOzs7Ozs7Ozs7O0FDVEE7Ozs7Ozs7Ozs7QUNBQSIsInNvdXJjZXMiOlsid2VicGFjazovL3dlYmZsci8uL3NyYy9wYWdlcy9QZXJpY2lhL2luZGV4LnRzeCIsIndlYnBhY2s6Ly93ZWJmbHIvZXh0ZXJuYWwgXCJyZWFjdFwiIiwid2VicGFjazovL3dlYmZsci9leHRlcm5hbCBcInJlYWN0L2pzeC1kZXYtcnVudGltZVwiIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tIFwicmVhY3RcIjtcclxuXHJcbmltcG9ydCBzdHlsZXMgZnJvbSBcIi4uL0NvbnRhdG8vXCI7XHJcblxyXG4vLyBQw6FnaW5hIHF1ZSBjb250w6ltIG9zIGNvbXBvbmVudGVzIGRvIGNhZsOpIGNyw7pcclxuY29uc3QgUGVyaWNpYTogUmVhY3QuRkMgPSAoKSA9PiB7XHJcbiAgcmV0dXJuIDxoMT5QYWdpbmEgZGUgUGVyaWNpYTwvaDE+O1xyXG59O1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgUGVyaWNpYTtcclxuIiwibW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKFwicmVhY3RcIik7IiwibW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKFwicmVhY3QvanN4LWRldi1ydW50aW1lXCIpOyJdLCJuYW1lcyI6WyJSZWFjdCIsIlBlcmljaWEiXSwic291cmNlUm9vdCI6IiJ9
