@@ -53,7 +53,7 @@ export default function Contabilidade() {
         <p> {">"} Regularização</p>
         <p> {">"} Parcelamentos</p>
         <p> {">"} Encerramentos</p>
-        <p> {">"} Desemquadramentos</p>
+        <p> {">"} Desenquadramentos</p>
         <p> {">"} Acompanhamento Mensal</p>
       </div>
 
@@ -68,17 +68,7 @@ export default function Contabilidade() {
         </header>
         <p> {">"} Imposto de Renda para Investidores</p>
       </div>
-
-   
-
     </div>
-
-    {/* <div className={styles.cssfooter}>
-      <button>Fale com a Contadora</button>
-
-    </div> */}
-
-
   </>;
 
 

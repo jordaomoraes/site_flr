@@ -3,6 +3,8 @@
  height: auto;
  justify-content: space-around;
  margin-top: 5.3rem;
+ margin-left: 5rem;
+ margin-right: 5rem;
 
 }
 
@@ -11,12 +13,13 @@
   height: auto;
   justify-content: space-around;
   margin-top: 0.3rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  
   div:nth-child(2){
     justify-content:end; 
-    border: none;
-   
+    border: none;   
   }
-
  }
 
 .cards {

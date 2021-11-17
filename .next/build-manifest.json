@@ -14,15 +14,40 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
-    ],
     "/Contabilidade": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/Contabilidade.js"
+    ],
+    "/Contato": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Contato.js"
+    ],
+    "/Curso": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Curso.js"
+    ],
+    "/Downloads": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Downloads.js"
+    ],
+    "/Obras": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Obras.js"
+    ],
+    "/Pericia": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Pericia.js"
+    ],
+    "/QuemSou": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/QuemSou.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",

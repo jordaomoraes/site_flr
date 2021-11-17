@@ -2,6 +2,11 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/": "pages/index.js",
-  "/Contabilidade": "pages/Contabilidade.js"
+  "/Contato": "pages/Contato.js",
+  "/Contabilidade": "pages/Contabilidade.js",
+  "/Downloads": "pages/Downloads.js",
+  "/Pericia": "pages/Pericia.js",
+  "/Obras": "pages/Obras.js",
+  "/Curso": "pages/Curso.js",
+  "/QuemSou": "pages/QuemSou.js"
 }
