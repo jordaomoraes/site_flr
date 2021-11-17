@@ -57,7 +57,7 @@ export default function Contabilidade() {
         <p> {">"} Acompanhamento Mensal</p>
       </div>
 
-      <div className={styles.ultimaDiv}>    
+      <div className={styles.cards}>    
           <button>Fale com a Contadora</button>
       </div>
 
